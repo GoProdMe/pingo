@@ -1,0 +1,2 @@
+# pingo
+Go Ping Service
